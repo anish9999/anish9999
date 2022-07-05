@@ -1,4 +1,4 @@
-### Hi i am anish shah ,i am a begineer in the software development phase , i am full stack developer👋
+### Hi i am Anish shah ,i am a begineer in the software development phase , i am full stack developer👋
 
 
 
