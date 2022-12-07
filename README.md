@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/85349550/205907913-244e7be3-1d99-4265-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish9999&label=Profile%20views&color=0e75b6&style=flat" alt="anish9999" /> </p>
 
-- 🔭 I’m currently working on my major project Yatra **Yatra**
+- 🔭 I’m currently working on my major project  **Yatra**
 
 - ⚡ Fun fact **I think i am funny😁**
 
