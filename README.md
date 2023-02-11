@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my major project  **Yatra**
 
-- ⚡ Fun fact **I think i am deterministic🤔**
+- ⚡ Fun fact **I think I am deterministic🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
