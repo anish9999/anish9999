@@ -6,6 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish9999&label=Profile%20views&color=0e75b6&style=flat" alt="anish9999" /> </p>
+<img align= "right" alt="coding" width="400" height ="300" src="https://cdn.discordapp.com/attachments/1066268769904758785/1075270691647135744/Aansh4_a_youngster_with_computer_background_dark_room_hyper_det_6f97d6d2-770c-4408-adf7-6c22cb6954fa.png">
 
 - 🔭 I’m currently working on my major project  **Yatra**
 
@@ -14,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anish shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish shah" height="30" width="40" /></a>
- <img align= "right" alt="coding" width="400" height ="300" src="https://cdn.discordapp.com/attachments/1066268769904758785/1075270691647135744/Aansh4_a_youngster_with_computer_background_dark_room_hyper_det_6f97d6d2-770c-4408-adf7-6c22cb6954fa.png">
+
 <a href="https://instagram.com/an.ish6743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an.ish6743" height="30" width="40" /></a>
 </p>
 
