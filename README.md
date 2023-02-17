@@ -4,6 +4,9 @@
 <img align= "left" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 <img align= "right" alt="coding" width="400" height ="320" src="https://cdn.discordapp.com/attachments/1066268769904758785/1075266520873189436/Aansh4_universe_galaxy_sailing_ship_steampunk_hyper_detailed_vo_fc31658f-6571-4534-a51d-4ee991ac1448.png">
 
+
+<img align= "right" alt="coding" width="400" height ="320" src="https://cdn.discordapp.com/attachments/1066268769904758785/1075270691647135744/Aansh4_a_youngster_with_computer_background_dark_room_hyper_det_6f97d6d2-770c-4408-adf7-6c22cb6954fa.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish9999&label=Profile%20views&color=0e75b6&style=flat" alt="anish9999" /> </p>
 
 - 🔭 I’m currently working on my major project  **Yatra**
