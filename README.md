@@ -1,5 +1,4 @@
 <h1 align="left">If You Can Dream, You Can Do It</h1><img align= "right" alt="coding" width="400" height ="300" src="https://user-images.githubusercontent.com/85349550/219848617-672d8bff-19e6-4852-9f04-849375b610ee.png">
-<img align= "right" alt="coding" width="400" height ="300" src="https://user-images.githubusercontent.com/85349550/219848617-672d8bff-19e6-4852-9f04-849375b610ee.png">
 <h1 align="left" style = "color:red">Anish Shah</h1>
 
 
