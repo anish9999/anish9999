@@ -1,4 +1,4 @@
-<h1 align="center">I am a programmer I make software <img align= "center" alt="coding" width="80" height ="80" src="https://user-images.githubusercontent.com/85349550/219848617-672d8bff-19e6-4852-9f04-849375b610ee.png"> Then use them</h1>
+<h1 align="center">I am a programmer I make softwares preferely <img align= "center" alt="coding" width="80" height ="80" src="https://user-images.githubusercontent.com/85349550/219848617-672d8bff-19e6-4852-9f04-849375b610ee.png"> Then use them</h1>
 
 <h1 align="center" style="color:red;"> 🈵 Anish Shah</h1>
 
