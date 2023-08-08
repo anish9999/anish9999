@@ -4,14 +4,14 @@
 <h3 align="center">   🈺🉑 Backend Developer 🈺🉑</h3>
 <img align= "left" alt="coding" width="400" src="https://user-images.githubusercontent.com/85349550/228919620-000a220f-e214-406f-bf27-c2fe5f0fe87e.gif">
 
-<img align= "right" alt="coding" width="400" height ="350" src="https://github.com/anish9999/anish9999/assets/85349550/21409ddd-9c81-4089-ac66-b3ae91ea07b5">
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish9999&label=Profile%20views&color=0e75b6&style=flat" alt="anish9999" /> </p>
 
 
-
+<img align= "right" alt="coding" width="400" height ="350" src="https://github.com/anish9999/anish9999/assets/85349550/21409ddd-9c81-4089-ac66-b3ae91ea07b5">
 
 
 - 🔭 I’m currently working on my major project  **Yatra**
